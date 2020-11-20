@@ -1,13 +1,13 @@
 {
     "EventFlags": {
-        "PlaceHolder": {
-            "eventStart": 0
+        "TES01": {
+            "eventStart": 1605906000
         },
-        "Tester": {
-            "eventStart": 1605793200
+        "TES02": {
+            "eventStart": 1605992400
         },
-        "Epic": {
-            "eventStart": 0
+        "TES03": {
+            "eventStart": 1606078800
         }
     }
 }
